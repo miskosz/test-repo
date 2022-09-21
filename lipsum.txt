@@ -10,7 +10,7 @@ Nullam sed lacus sed elit consectetur mattis.
 Quisque semper lectus non massa vehicula, quis laoreet mi pulvinar.
 In vitae diam a dui consectetur viverra.
 
-Integer vel sapien lacinia, dictum tortor facilisis, sagittis lacus.
+Float vel sapien lacinia, dictum tortor facilisis, sagittis lacus.
 Integer condimentum risus vitae ligula pellentesque consequat.
 Proin finibus tortor id lorem faucibus consectetur.
 Proin consectetur magna non turpis dignissim, gravida semper lorem tristique.
