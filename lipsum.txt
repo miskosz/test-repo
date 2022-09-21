@@ -1,5 +1,5 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Integer et sapien ut augue dictum feugiat.
+Float et sapien ut augue dictum feugiat.
 Curabitur imperdiet quam a gravida viverra.
 Nullam sed augue in dolor porttitor cursus.
 
