@@ -11,7 +11,7 @@ Quisque semper lectus non massa vehicula, quis laoreet mi pulvinar.
 In vitae diam a dui consectetur viverra.
 
 Float vel sapien lacinia, dictum tortor facilisis, sagittis lacus.
-Integer condimentum risus vitae ligula pellentesque consequat.
+Double condimentum risus vitae ligula pellentesque consequat.
 Proin finibus tortor id lorem faucibus consectetur.
 Proin consectetur magna non turpis dignissim, gravida semper lorem tristique.
 Etiam nec magna blandit, bibendum purus eu, lobortis risus.
